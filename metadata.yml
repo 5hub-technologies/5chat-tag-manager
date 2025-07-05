@@ -1,0 +1,5 @@
+homepage: "https://5chat.io"
+documentation: "https://5chat.io/en/docs/installation"
+versions:
+  - sha: f238691cf1b3d2a7f5f6220a6e8a34a44f0b52d3
+    changeNotes: Initial release.
